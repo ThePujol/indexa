@@ -2,6 +2,11 @@
 
 Este é um projeto desenvolvido durante o curso de Angular da Alura, com o objetivo de criar uma aplicação web para agendamento de contatos.
 
+<p align="center">
+  <img src="ScreenShot.png" alt="Preview do Projeto" width=30%>
+</p>
+
+
 ## 🌟 Funcionalidades
 
 - **🎨 Cabeçalho estilizado:** Implementação de um cabeçalho com o título da aplicação e um design atraente, utilizando Flexbox para o alinhamento dos elementos e fontes personalizadas do Google Fonts.
