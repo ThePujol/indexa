@@ -1,59 +1,46 @@
-# Indexa
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.4.
 
-## Development server
+# Projeto Alura - Agendamento de Contatos
 
-To start a local development server, run:
+Este é um projeto desenvolvido durante o curso de Angular da Alura, com o objetivo de criar uma aplicação web para agendamento de contatos.
 
-```bash
-ng serve
-```
+## Funcionalidades
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+*   **Cabeçalho estilizado:** Implementação de um cabeçalho com o título da aplicação e um design atraente, utilizando Flexbox para o alinhamento dos elementos e fontes personalizadas do Google Fonts.
+*   **Estilização:** Aplicação de estilos CSS para melhorar a aparência da aplicação, utilizando cores, fontes e espaçamentos definidos no Figma.
+*   **Importação de fontes:** Utilização do Google Fonts para importar fontes personalizadas e aplicá-las ao projeto.
 
-## Code scaffolding
+## Tecnologias Utilizadas
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+*   **Angular:** Framework JavaScript para construção de interfaces de usuário.
+*   **HTML:** Linguagem de marcação para estruturar o conteúdo da página.
+*   **CSS:** Linguagem de estilo para definir a aparência da página.
+*   **Figma:** Ferramenta de design utilizada como referência para a estilização da aplicação.
+*   **Google Fonts:** Serviço de fontes online para importar fontes personalizadas.
 
-```bash
-ng generate component component-name
-```
+## Como Executar o Projeto
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+1.  Clone este repositório:
 
-```bash
-ng generate --help
-```
+    ```bash
+    git clone [URL do seu repositório]
+    ```
+2.  Navegue até o diretório do projeto:
 
-## Building
+    ```bash
+    cd [nome do diretório do projeto]
+    ```
+3.  Instale as dependências:
 
-To build the project run:
+    ```bash
+    npm install
+    ```
+4.  Execute a aplicação:
 
-```bash
-ng build
-```
+    ```bash
+    ng serve
+    ```
+5.  Abra o navegador e acesse `http://localhost:4200/`.
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+## Estrutura de Arquivos
 
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
